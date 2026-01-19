@@ -62,3 +62,5 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # 업데이트
+
+# ㅎㅎㅎㅎㅎ
